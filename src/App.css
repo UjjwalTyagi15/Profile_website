@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.heading-font{
+  font-family: Heading-Font;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +39,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+.projecticon{
+  /* background-color: black; */
+  margin: auto;
+  text-align: center;
 }

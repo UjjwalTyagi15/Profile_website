@@ -1,0 +1,16 @@
+.li{
+    list-style-type:disc  ;
+   padding: 0.5%;
+   margin: 1%;
+   font-family:'Times New Roman', Times, serif ;
+   font-weight:bold;
+    
+}
+
+.ul{
+    display: block;
+    text-align: left;
+    padding: 1%;
+    margin:0.1%;
+    font-size: larger;
+}
