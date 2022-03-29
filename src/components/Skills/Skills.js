@@ -31,7 +31,7 @@ const Skills = () => {
             </h1>
             <ul className='ul mb3'>
                 <li className='li'>
-                    Machine learning
+                    Machine learning , Deep learning
                 </li>
                 <li className='li'>
                     Web Devolopment

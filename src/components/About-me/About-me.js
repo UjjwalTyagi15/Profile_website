@@ -29,7 +29,7 @@ const About_me = () => {
             <h1 className=" headings heading-font underline f1">
                 Hobbies
             </h1>
-            <ul className='ul mb1'>
+            <ul className='ul mb3'>
                 <li className='li'>
                     Playing cricket and taekwondo
                 </li>
