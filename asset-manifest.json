@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Profile_website/static/css/main.ba9c7ae3.css",
-    "main.js": "/Profile_website/static/js/main.96cfebb2.js",
+    "main.css": "/Profile_website/static/css/main.44751db8.css",
+    "main.js": "/Profile_website/static/js/main.fc739fbf.js",
     "static/js/787.f2a0fa2f.chunk.js": "/Profile_website/static/js/787.f2a0fa2f.chunk.js",
     "static/media/Elianto-Regular.ttf": "/Profile_website/static/media/Elianto-Regular.8b88075e5f2ab4f4d6c3.ttf",
+    "static/media/machine-learning.png": "/Profile_website/static/media/machine-learning.7bdd91748146ece18c20.png",
     "static/media/smart-brain-logo.png": "/Profile_website/static/media/smart-brain-logo.610e1112f72ae9b8900a.png",
     "static/media/spaceship.png": "/Profile_website/static/media/spaceship.0951a3f37302cfb2e153.png",
-    "static/media/letter-u.png": "/Profile_website/static/media/letter-u.a55ea9ebc27047313725.png",
+    "static/media/deep-learning.png": "/Profile_website/static/media/deep-learning.73c94a6cd388c6be00e6.png",
     "index.html": "/Profile_website/index.html",
-    "main.ba9c7ae3.css.map": "/Profile_website/static/css/main.ba9c7ae3.css.map",
-    "main.96cfebb2.js.map": "/Profile_website/static/js/main.96cfebb2.js.map",
+    "main.44751db8.css.map": "/Profile_website/static/css/main.44751db8.css.map",
+    "main.fc739fbf.js.map": "/Profile_website/static/js/main.fc739fbf.js.map",
     "787.f2a0fa2f.chunk.js.map": "/Profile_website/static/js/787.f2a0fa2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba9c7ae3.css",
-    "static/js/main.96cfebb2.js"
+    "static/css/main.44751db8.css",
+    "static/js/main.fc739fbf.js"
   ]
 }
