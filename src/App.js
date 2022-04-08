@@ -2,6 +2,8 @@ import Projects from './components/projects/projects';
 import './App.css';
 import Brain from './components/projects/smart-brain-logo.png';
 import Ship from './components/projects/spaceship.png';
+import Machine_learning from './components/projects/machine-learning.png';
+import Deep_learning from './components/projects/deep-learning.png';
 import Navigation from './components/navigation/navigation';
 import Home from './components/Home/Home';
 import About_me from './components/About-me/About-me';
@@ -55,9 +57,10 @@ class App extends React.Component {
            <h1 className='headings'> MY PROJECTS </h1>
           </div >
           <div className='projecticon'>
-          <Projects brain={Brain} name ={'Smart-Brain-App'}/>
-          <Projects brain={Ship} name ={'Space Invaders'}/>
-          <Projects brain={Brain} name ={'Smart-Brain-App'}/>
+          <Projects brain={Brain} name ={'Smart-Brain-App'} link={"https://github.com/UjjwalTyagi15/smart-brain"}/>
+          <Projects brain={Ship} name ={'Space Invaders'} link={"https://github.com/UjjwalTyagi15/Space_invaders_pygames"} />
+          <Projects brain={Machine_learning} name ={'ML Project'} link={"https://github.com/UjjwalTyagi15/Bulldozer_price_prediction"}/>
+          <Projects brain={Deep_learning} name ={'Dl Project'} link={"https://github.com/UjjwalTyagi15/smart-brain"}/>
           <Footer />
           </div> 
         </div>
