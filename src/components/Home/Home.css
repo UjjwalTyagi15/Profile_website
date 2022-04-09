@@ -1,14 +1,15 @@
-.home_text{
-
-    /* position:absolute; */
-    margin: 20% auto;
-    text-align: center;    
-}
 
 .heading {
     font-family: Heading-Font;
     text-decoration: underline;
     font-size: auto;
+}
+.home_text{
+
+    /* position:absolute; */
+    margin: 20% auto;
+    text-align: center;  
+    font-size: 200%;
 }
 
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700,900,400italic,700italic,900italic);
