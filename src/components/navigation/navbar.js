@@ -46,21 +46,21 @@ const Navbar = ({changestate}) => {
             <li>
               <a
                 href="https://github.com/UjjwalTyagi15"
-                target='_blank'>
+                target='_blank' rel="noreferrer">
                 <FaGithubSquare className="github" />
               </a>
             </li>
             <li>
               <a
                 href="https://www.linkedin.com/in/ujjwal-tyagi-308336232/"
-                target='_blank'>
+                target='_blank' rel="noreferrer" >
                 <BsLinkedin className="linkdin" />
               </a>
             </li>
             <li>
               <a
                 href="https://leetcode.com/ujjwal_tyagii/"
-                target='_blank'>
+                target='_blank' rel="noreferrer" >
                 <SiLeetcode className="leetcode" />
               </a>
             </li>
@@ -68,7 +68,7 @@ const Navbar = ({changestate}) => {
 
           {/* hamburget menu start  */}
           <div className="hamburger-menu">
-            <a href="#" onClick={() => setShowMediaIcons(!showMediaIcons)}>
+            <a  onClick={() => setShowMediaIcons(!showMediaIcons)}>
               <GiHamburgerMenu />
             </a>
           </div>
