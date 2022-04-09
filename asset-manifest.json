@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Profile_website/static/css/main.1d883f05.css",
-    "main.js": "/Profile_website/static/js/main.c6197c69.js",
+    "main.css": "/Profile_website/static/css/main.d15a79a5.css",
+    "main.js": "/Profile_website/static/js/main.d16d61ad.js",
     "static/js/787.f2a0fa2f.chunk.js": "/Profile_website/static/js/787.f2a0fa2f.chunk.js",
     "static/media/Elianto-Regular.ttf": "/Profile_website/static/media/Elianto-Regular.8b88075e5f2ab4f4d6c3.ttf",
     "static/media/machine-learning.png": "/Profile_website/static/media/machine-learning.7bdd91748146ece18c20.png",
@@ -10,12 +10,12 @@
     "static/media/deep-learning.png": "/Profile_website/static/media/deep-learning.73c94a6cd388c6be00e6.png",
     "static/media/letteru.png": "/Profile_website/static/media/letteru.a55ea9ebc27047313725.png",
     "index.html": "/Profile_website/index.html",
-    "main.1d883f05.css.map": "/Profile_website/static/css/main.1d883f05.css.map",
-    "main.c6197c69.js.map": "/Profile_website/static/js/main.c6197c69.js.map",
+    "main.d15a79a5.css.map": "/Profile_website/static/css/main.d15a79a5.css.map",
+    "main.d16d61ad.js.map": "/Profile_website/static/js/main.d16d61ad.js.map",
     "787.f2a0fa2f.chunk.js.map": "/Profile_website/static/js/787.f2a0fa2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d883f05.css",
-    "static/js/main.c6197c69.js"
+    "static/css/main.d15a79a5.css",
+    "static/js/main.d16d61ad.js"
   ]
 }
