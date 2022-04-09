@@ -15,7 +15,7 @@ const Navbar = ({changestate}) => {
         {/* 1st logo part  */}
         <div className="logo">
           <h2>
-            <img className ="w-10 " src={letteru} alt="LOGO"/>
+            <img className ="w-10 pointer grow " onClick={()=>changestate('home')} src={letteru} alt="LOGO"/>
           </h2>
         </div>
 
