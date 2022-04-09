@@ -1,6 +1,8 @@
 import Projects from './components/projects/projects';
 import './App.css';
 import Brain from './components/projects/smart-brain-logo.png';
+import Bank from './components/projects/bank.png';
+import Color_gradient from './components/projects/color-gradient.png';
 import Ship from './components/projects/spaceship.png';
 import Machine_learning from './components/projects/machine-learning.png';
 import Deep_learning from './components/projects/deep-learning.png';
@@ -61,8 +63,8 @@ class App extends React.Component {
           <Projects brain={Ship} name ={'Space Invaders'} link={"https://github.com/UjjwalTyagi15/Space_invaders_pygames"} />
           <Projects brain={Machine_learning} name ={'Bulldozer_price_prediction(ML)'} link={"https://github.com/UjjwalTyagi15/Bulldozer_price_prediction"}/>
           <Projects brain={Deep_learning} name ={'Dog_breed_identification(DL)'} link={"https://github.com/UjjwalTyagi15/smart-brain"}/>
-          <Projects brain={Deep_learning} name ={'banking_system(oops)'} link={"https://github.com/UjjwalTyagi15/OOPS_banking_system"}/>
-          <Projects brain={Deep_learning} name ={'color_gradient_website'} link={"https://github.com/UjjwalTyagi15/Color_gradient_"}/>
+          <Projects brain={Bank} name ={'banking_system(oops)'} link={"https://github.com/UjjwalTyagi15/OOPS_banking_system"}/>
+          <Projects brain={Color_gradient} name ={'color_gradient_website'} link={"https://github.com/UjjwalTyagi15/Color_gradient_"}/>
           
           </div> 
         </div>
