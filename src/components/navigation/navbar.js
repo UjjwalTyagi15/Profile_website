@@ -25,16 +25,16 @@ const Navbar = ({changestate}) => {
             showMediaIcons ? "menu-link mobile-menu-link" : "menu-link"
           }>
           <ul>
-            <li className="pointer grow " onClick={()=>changestate('home')}>
+            <li className="pointer grow " onClick={()=>{changestate('home'); setShowMediaIcons(!showMediaIcons);}}>
               Home
             </li>
-            <li className="pointer grow " onClick={()=>changestate('about-me')}>
-              about
+            <li className="pointer grow " onClick={()=>{changestate('about-me');setShowMediaIcons(!showMediaIcons);}}>
+              About
             </li>
-            <li className="pointer grow " onClick={()=>changestate('projects')}>
+            <li className="pointer grow " onClick={()=>{changestate('projects');setShowMediaIcons(!showMediaIcons);}}>
               Projects
             </li>
-            <li className="pointer grow " onClick={()=>changestate('skills')}>
+            <li className="pointer grow " onClick={()=>{changestate('skills');setShowMediaIcons(!showMediaIcons);}}>
              Skills
             </li>
           </ul>
