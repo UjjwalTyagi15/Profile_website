@@ -34,7 +34,7 @@ const Navbar = ({changestate}) => {
             <li className="pointer grow " onClick={()=>{changestate('projects');setShowMediaIcons(!showMediaIcons);}}>
               Projects
             </li>
-            <li className="pointer grow " onClick={()=>{changestate('skills');setShowMediaIcons(!showMediaIcons);}}>
+            <li className="pointer grow " onClick={()=>{changestate('skills');setShowMediaIcons(!showMediaIcons)}}>
              Skills
             </li>
           </ul>
@@ -67,7 +67,7 @@ const Navbar = ({changestate}) => {
           </ul>
 
           {/* hamburget menu start  */}
-          <div className="hamburger-menu">
+          <div className="hamburger-menu ">
             <a  onClick={() => setShowMediaIcons(!showMediaIcons)}>
               <GiHamburgerMenu />
             </a>
