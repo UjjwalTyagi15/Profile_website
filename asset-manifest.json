@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Profile_website/static/css/main.d15a79a5.css",
-    "main.js": "/Profile_website/static/js/main.7d7d52a7.js",
+    "main.css": "/Profile_website/static/css/main.f16004a6.css",
+    "main.js": "/Profile_website/static/js/main.20cf5836.js",
     "static/js/787.f2a0fa2f.chunk.js": "/Profile_website/static/js/787.f2a0fa2f.chunk.js",
     "static/media/Elianto-Regular.ttf": "/Profile_website/static/media/Elianto-Regular.8b88075e5f2ab4f4d6c3.ttf",
     "static/media/machine-learning.png": "/Profile_website/static/media/machine-learning.7bdd91748146ece18c20.png",
@@ -12,12 +12,12 @@
     "static/media/letteru.png": "/Profile_website/static/media/letteru.a55ea9ebc27047313725.png",
     "static/media/color-gradient.png": "/Profile_website/static/media/color-gradient.a42e46869899a3c974b3.png",
     "index.html": "/Profile_website/index.html",
-    "main.d15a79a5.css.map": "/Profile_website/static/css/main.d15a79a5.css.map",
-    "main.7d7d52a7.js.map": "/Profile_website/static/js/main.7d7d52a7.js.map",
+    "main.f16004a6.css.map": "/Profile_website/static/css/main.f16004a6.css.map",
+    "main.20cf5836.js.map": "/Profile_website/static/js/main.20cf5836.js.map",
     "787.f2a0fa2f.chunk.js.map": "/Profile_website/static/js/787.f2a0fa2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d15a79a5.css",
-    "static/js/main.7d7d52a7.js"
+    "static/css/main.f16004a6.css",
+    "static/js/main.20cf5836.js"
   ]
 }
