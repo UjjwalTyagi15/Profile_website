@@ -62,7 +62,7 @@ class App extends React.Component {
           <Projects brain={Brain} name ={'Smart-Brain-App'} link={"https://github.com/UjjwalTyagi15/smart-brain"}/>
           <Projects brain={Ship} name ={'Space Invaders'} link={"https://github.com/UjjwalTyagi15/Space_invaders_pygames"} />
           <Projects brain={Machine_learning} name ={'Bulldozer_price_prediction(ML)'} link={"https://github.com/UjjwalTyagi15/Bulldozer_price_prediction"}/>
-          <Projects brain={Deep_learning} name ={'Dog_breed_identification(DL)'} link={"https://github.com/UjjwalTyagi15/smart-brain"}/>
+          <Projects brain={Deep_learning} name ={'Dog_breed_identification(DL)'} link={"https://github.com/UjjwalTyagi15/Dog_breed_identification_Deep_learning.git"}/>
           <Projects brain={Bank} name ={'banking_system(oops)'} link={"https://github.com/UjjwalTyagi15/OOPS_banking_system"}/>
           <Projects brain={Color_gradient} name ={'color_gradient_website'} link={"https://github.com/UjjwalTyagi15/Color_gradient_"}/>
           
