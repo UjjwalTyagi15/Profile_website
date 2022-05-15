@@ -18,7 +18,7 @@ footer a{
 }
 
 .footer_logo img{
-    height: 5rem;
+    height: 9vh;
 }
 
 .permalinks{
@@ -50,3 +50,21 @@ footer a{
     color: var(--color-bg);
     border-color: var(--color-bg);
 }
+
+
+@media screen and (max-width:1024px) {
+   
+  }
+  
+  @media screen and (max-width:600px) {
+    .permalinks{
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+    .footer_socials{
+        margin-bottom: 2.6rem;
+    }
+    .footer_logo img{
+        height: 7vh;
+    }
+  }
