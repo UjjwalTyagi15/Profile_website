@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/Profile_website/static/css/main.f0ef077b.css",
-    "main.js": "/Profile_website/static/js/main.5731d681.js",
-    "static/js/787.f2a0fa2f.chunk.js": "/Profile_website/static/js/787.f2a0fa2f.chunk.js",
-    "static/media/Elianto-Regular.ttf": "/Profile_website/static/media/Elianto-Regular.8b88075e5f2ab4f4d6c3.ttf",
-    "static/media/machine-learning.png": "/Profile_website/static/media/machine-learning.7bdd91748146ece18c20.png",
-    "static/media/smart-brain-logo.png": "/Profile_website/static/media/smart-brain-logo.610e1112f72ae9b8900a.png",
-    "static/media/bank.png": "/Profile_website/static/media/bank.619f6b459acfbe8b9f8c.png",
-    "static/media/spaceship.png": "/Profile_website/static/media/spaceship.0951a3f37302cfb2e153.png",
-    "static/media/deep-learning.png": "/Profile_website/static/media/deep-learning.73c94a6cd388c6be00e6.png",
+    "main.css": "/Profile_website/static/css/main.1ae00093.css",
+    "main.js": "/Profile_website/static/js/main.a3723670.js",
+    "static/media/me.png": "/Profile_website/static/media/me.ae0c6df2b642ce36f77f.png",
+    "static/media/portfolio2.jpg": "/Profile_website/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/me_about.jpg": "/Profile_website/static/media/me_about.766fcf3c7c968e2af7e2.jpg",
+    "static/media/portfolio1.jpg": "/Profile_website/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Profile_website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/CV.pdf": "/Profile_website/static/media/CV.4f2b57067638479d74c3.pdf",
+    "static/media/portfolio4.jpg": "/Profile_website/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "static/media/letteru.png": "/Profile_website/static/media/letteru.a55ea9ebc27047313725.png",
-    "static/media/color-gradient.png": "/Profile_website/static/media/color-gradient.a42e46869899a3c974b3.png",
     "index.html": "/Profile_website/index.html",
-    "main.f0ef077b.css.map": "/Profile_website/static/css/main.f0ef077b.css.map",
-    "main.5731d681.js.map": "/Profile_website/static/js/main.5731d681.js.map",
-    "787.f2a0fa2f.chunk.js.map": "/Profile_website/static/js/787.f2a0fa2f.chunk.js.map"
+    "main.1ae00093.css.map": "/Profile_website/static/css/main.1ae00093.css.map",
+    "main.a3723670.js.map": "/Profile_website/static/js/main.a3723670.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0ef077b.css",
-    "static/js/main.5731d681.js"
+    "static/css/main.1ae00093.css",
+    "static/js/main.a3723670.js"
   ]
 }
