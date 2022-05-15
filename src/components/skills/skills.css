@@ -1,0 +1,54 @@
+.experience_container{
+   
+    width: 80%;
+    grid-template-columns: 1fr ; 
+    gap :2rem;  
+
+}
+
+.experience_container > div{
+    background: var(--color-bg-variant);
+    padding:2.4rem 5rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.experience_container>div:hover{
+    background: transparent;
+    border-color: var(--color-light);
+    cursor: default;
+}
+
+.experience_content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 2rem;
+}
+
+.experience_details{
+    display: flex;
+    gap: 1rem;
+}
+
+.detail_icon{
+    margin-top: 6px;
+
+}
+
+
+@media screen and (max-width:1024px) {
+   .experience_content{
+       display: grid;
+       grid-template-columns: 1fr 1fr;
+       gap:1rem 1.5rem;
+   }
+   
+
+  }
+  
+  @media screen and (max-width:600px) {
+  .experience_content{
+      grid-template-columns: 1fr;
+  }
+  }
