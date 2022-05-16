@@ -27,6 +27,11 @@
     margin-bottom: 2rem;
 }
 
+.portfolio_item_image img{
+    height:50vh;
+    width: 100%;
+}
+
 @media screen and (max-width:1024px) {
     .portfolio_container{
         grid-template-columns: 1fr 1fr;

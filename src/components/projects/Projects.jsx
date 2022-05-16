@@ -3,7 +3,7 @@ import './projects.css'
 import img1 from '../../assets/portfolio1.jpg'
 import img2 from '../../assets/portfolio2.jpg'
 import img3 from '../../assets/portfolio3.jpg'
-import img4 from '../../assets/portfolio4.jpg'
+
 
 
 function projects() {
@@ -15,46 +15,31 @@ function projects() {
       <div className='container portfolio_container'>
         <article className='portfolio_item'>
           <div className='portfolio_item_image'>
-            <img src={img1}></img>
+            <img src={img1} alt="SMART BRAIN"></img>
           </div>
-          <h3>Project title</h3>
-          <a href='' className='btn btn-primary'>GitHub</a>
+          <h3>Fullstack Face recorgnition Web App using React</h3>
+          <a href='https://github.com/UjjwalTyagi15/smart-brain' target='_blank'   rel="noreferrer" className='btn btn-primary'>GitHub</a>
        
 
         </article>
         <article className='portfolio_item'>
           <div className='portfolio_item_image'>
-            <img src={img1}></img>
+            <img src={img2} alt="SMART BRAIN"></img>
           </div>
-          <h3>Project title</h3>
-          <a href='' className='btn btn-primary'>GitHub</a>
+          <h3>Bulldozers Price Predictions using ML</h3>
+          <a href='https://github.com/UjjwalTyagi15/Bulldozer_price_prediction' target='_blank' rel="noreferrer" className='btn btn-primary'>GitHub</a>
          
 
         </article>
         <article className='portfolio_item'>
           <div className='portfolio_item_image'>
-            <img src={img1}></img>
+            <img src={img3} alt="SMART BRAIN"></img>
           </div>
-          <h3>Project title</h3>
-          <a href='' className='btn btn-primary'>GitHub</a>
+          <h3>Dog Breed identification using Deep Learning</h3>
+          <a href='https://github.com/UjjwalTyagi15/Dog_breed_identification_Deep_learning' target='_blank' rel='noreferrer' className='btn btn-primary'>GitHub</a>
          
 
-        </article>
-        <article className='portfolio_item'>
-          <div className='portfolio_item_image'>
-            <img src={img1}></img>
-          </div>
-          <h3>Project title</h3>
-          <a href='' className='btn btn-primary'>GitHub</a>
-         
-
-        </article>
-        <article className='portfolio_item'>
-          <div className='portfolio_item_image'>
-            <img src={img1}></img>
-          </div>
-          <h3>Project title</h3>
-          <a href='' className='btn btn-primary'>GitHub</a>
+      
         
 
         </article>

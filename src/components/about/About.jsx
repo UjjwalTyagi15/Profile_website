@@ -17,7 +17,9 @@ function About() {
         </div>
         <div className='about_content'>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus sint aliquam earum sed! Itaque assumenda libero id consectetur laboriosam ea nisi totam, enim ipsa aperiam est, quibusdam voluptatum iusto tempora.
+          I am currently persuing my B.tech(ECE) at <a href='https://www.jmi.ac.in/' target='_blank' rel="noreferrer" >
+          Jamia Millia Islamia ,New Delhi
+          </a> . I am Energetic and excited to learn new things and expanding my knowledge and understanding to the new and upcoming technology. I am currently profiled as Full Stack Web developer and have experience with Machine learning and Deep learning as well . I also like to keep practice and brush up my problem solving and analytical Skills. 
         </p>
         <a href="#Contact" className='btn btn-primary'>Lets Talk</a>
         </div>

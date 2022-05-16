@@ -16,43 +16,43 @@ function Skills() {
             <article className='experience_details'>
               <BsPatchCheckFill className='detail_icon' />
               <div>
-                <h4> HTML</h4>
-                <small className='text-light'>HTML , CSS JavaScript</small>
+                <h4> Front-End</h4>
+                <small className='text-light'>HTML, CSS , JAVA SCRIPT , REACT.JS </small>
               </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill className='detail_icon' />
               <div>
-                <h4> HTML</h4>
-                <small className='text-light'>HTML , CSS JavaScript</small>
+                <h4> Back-end</h4>
+                <small className='text-light'>NODE.JS,EXPRESS.JS</small>
               </div>
             </article> 
             <article className='experience_details'>
               <BsPatchCheckFill className='detail_icon' />
               <div>
-                <h4> HTML</h4>
-                <small className='text-light'>HTML , CSS JavaScript</small>
+                <h4>DataBase Management</h4>
+                <small className='text-light'>Mongo DB , PostgreSQL</small>
               </div>
             </article> 
             <article className='experience_details'>
               <BsPatchCheckFill className='detail_icon' />
               <div>
-                <h4> HTML</h4>
-                <small className='text-light'>HTML , CSS JavaScript</small>
+                <h4>Machine Learning </h4>
+                <small className='text-light'>Python(Pandas ,Numpy) , Jupyter , SciKit Learn</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill className='detail_icon' />
               <div>
-                <h4> HTML</h4>
-                <small className='text-light'>HTML , CSS JavaScript</small>
+                <h4> Deep Learning</h4>
+                <small className='text-light'>Tensor Flow, MatplotLib </small>
               </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill className='detail_icon' />
               <div>
-                <h4> HTML</h4>
-                <small className='text-light'>HTML , CSS JavaScript</small>
+                <h4> Analytica And Problem Solving</h4>
+                <small className='text-light'>C++ , Data Structures and ALgorithms , OOPS concept,STL </small>
               </div>
             </article>
 
