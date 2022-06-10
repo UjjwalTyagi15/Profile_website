@@ -19,7 +19,7 @@ function About() {
         <p>
           I am currently persuing my B.tech(ECE) at <a href='https://www.jmi.ac.in/' target='_blank' rel="noreferrer" >
           Jamia Millia Islamia ,New Delhi
-          </a> . I am Energetic and excited to learn new things and expanding my knowledge and understanding to the new and upcoming technology. I am currently profiled as Full Stack Web developer and have experience with Machine learning and Deep learning as well . I also like to keep practice and brush up my problem solving and analytical Skills. 
+          </a> . I am Energetic and excited to learn new things and expanding my knowledge about the new and upcoming technology. I am currently profiled as Full Stack Web developer and have experience with Machine learning and Deep learning as well . I also like to keep practice and brush up my problem solving and analytical Skills. 
         </p>
         <a href="#Contact" className='btn btn-primary'>Lets Talk</a>
         </div>

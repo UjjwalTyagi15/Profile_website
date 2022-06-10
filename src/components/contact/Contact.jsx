@@ -31,10 +31,11 @@ const Contact = () => {
             <h4>
               Email
             </h4>
+            <a href='mailto:ujjwaltyagi1512@gmail.com' target='_blank' rel="noreferrer" >
             <h5>
               ujjwaltyagi1512@gmail.com
             </h5>
-            <a href='mailto:ujjwaltyagi1512@gmail.com' target='_blank' rel="noreferrer" >Send a message</a>
+            Send a message</a>
           </article>
           <article className="contact_option">
             <RiWhatsappFill className='contact_icon' />
